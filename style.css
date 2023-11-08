@@ -20,3 +20,11 @@
 a:link {
     color: white;
 }
+
+a:visited {
+    color: antiquewhite
+}
+
+a:hover {
+    color: lightsalmon;
+}
