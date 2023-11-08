@@ -2,6 +2,10 @@
     color: crimson;
 }
 
+.scope {
+    height: 4in;
+}
+
 .team {
     width: 200px;
     height: 200px;
