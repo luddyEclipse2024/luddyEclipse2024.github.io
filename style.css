@@ -1,9 +1,19 @@
+
+
 .h1 {
     color: crimson;
+    font: bold;
+    font-family: monospace;
+    background-color: antiquewhite;
+}
+
+.head {
+    font-family: monospace;
+    color: rgb(112, 15, 25);
 }
 
 .scope {
-    height: 4in;
+    height: 430px;
 }
 
 .team {
@@ -13,8 +23,9 @@
 }
 
 .pages {
-    font-size: large;
+    font-size: x-large;
     background-color: crimson;
+    margin-bottom: 20px;
 }
 
 a:link {
