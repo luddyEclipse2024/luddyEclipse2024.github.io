@@ -13,7 +13,7 @@
 }
 
 .scope {
-    height: 430px;
+    height: 350px;
 }
 
 .team {
@@ -38,4 +38,8 @@ a:visited {
 
 a:hover {
     color: lightsalmon;
+}
+
+.Skeleton {
+    color: dodgerblue;
 }
