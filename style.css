@@ -28,11 +28,10 @@
     margin-bottom: 20px;
 }
 
-
-a:visited {
-    color: antiquewhite
+a.menu {
+    color: antiquewhite;
 }
 
-a:hover {
-    color: lightsalmon;
+a.other {
+    color: #f29b38;
 }
