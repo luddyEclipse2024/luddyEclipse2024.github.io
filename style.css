@@ -19,6 +19,9 @@
 
 .scope {
     height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .team {
@@ -40,4 +43,11 @@ a.menu {
 
 a.other {
     color: #852c2c;
+}
+
+.ppt {
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
